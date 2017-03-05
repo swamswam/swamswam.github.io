@@ -31,3 +31,10 @@ a:visited {
 a:hover {
 	color:#191970;
 }
+
+p { font-size: 20px;
+   	font-color: navy;
+		text-align: center;
+		font-family: Courier;
+
+}
