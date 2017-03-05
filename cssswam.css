@@ -19,3 +19,15 @@ body {
 	background-position: center;
 	background-attachment: fixed;
 }
+
+a:link {
+	color:#483D8B;
+}
+
+a:visited {
+	color:#FFFAF0;
+}
+
+a:hover {
+	color:#191970;
+}
