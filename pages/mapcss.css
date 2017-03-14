@@ -1,0 +1,9 @@
+<!DOCTYPE html>
+<head>
+<link href="/normalize.css" rel="stylesheet">
+<style>
+img
+ { margin: 40px 0px 0px 0px;
+ border: 7px solid white;
+ border-radius: 20px;}
+ body {background-color: rgba(0,0,0,2);}
